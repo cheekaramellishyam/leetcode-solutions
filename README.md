@@ -5,5 +5,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0507-perfect-number](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/0507-perfect-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 <!---LeetCode Topics End-->
