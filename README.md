@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0507-perfect-number](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0836-rectangle-overlap](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 ## Geometry
@@ -24,9 +25,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
 |  |
 | ------- |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Prefix Sum
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
