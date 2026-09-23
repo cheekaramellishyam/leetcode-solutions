@@ -1,0 +1,27 @@
+class Solution(object):
+
+    def minOperations(self, nums, x):
+        
+        total = sum(nums)
+        target = total - x
+
+        left = 0
+        current_sum = 0
+        longest = -1
+
+        for right in range(len(nums)):
+            current_sum += nums[right]
+
+            while current_sum > target and left <= right:
+                current_sum -= nums[left]
+                left += 1
+
+            if current_sum == target:
+                length = right - left + 1
+                longest = max(longest, length)
+
+        if longest == -1:
+            return -1
+
+        return len(nums) - longest
+        
