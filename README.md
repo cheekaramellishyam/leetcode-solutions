@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0434-number-of-segments-in-a-string](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -97,10 +99,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
