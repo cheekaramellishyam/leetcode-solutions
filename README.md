@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0326-power-of-three](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0507-perfect-number](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0592-fraction-addition-and-subtraction](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0836-rectangle-overlap](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/0836-rectangle-overlap) |
@@ -141,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
