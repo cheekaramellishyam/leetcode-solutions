@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/0067-add-binary) |
 | [0326-power-of-three](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0507-perfect-number](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0592-fraction-addition-and-subtraction](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/0592-fraction-addition-and-subtraction) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/0067-add-binary) |
 | [0434-number-of-segments-in-a-string](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0678-valid-parenthesis-string](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/0067-add-binary) |
 | [0592-fraction-addition-and-subtraction](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [3498-reverse-degree-of-a-string](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Euclidean Algorithm
@@ -161,5 +164,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/0067-add-binary) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 <!---LeetCode Topics End-->
