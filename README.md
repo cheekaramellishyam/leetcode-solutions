@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0326-power-of-three](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0507-perfect-number](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0592-fraction-addition-and-subtraction](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/0592-fraction-addition-and-subtraction) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/0069-sqrtx) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -166,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/0067-add-binary) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
