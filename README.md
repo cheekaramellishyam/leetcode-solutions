@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## String
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0434-number-of-segments-in-a-string](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0678-valid-parenthesis-string](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
