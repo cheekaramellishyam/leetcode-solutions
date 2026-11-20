@@ -184,9 +184,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/0067-add-binary) |
+| [0191-number-of-1-bits](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Newton's Method
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/0069-sqrtx) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
