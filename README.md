@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/0066-plus-one) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/0069-sqrtx) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/cheekaramellishyam/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
